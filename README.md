@@ -51,8 +51,6 @@
 | 知乎   | ✅          | ✅              | ✅        | ✅              | ✅          | ✅        | ✅              |
 
 
-<details id="pro-version">
-<summary>🔗 <strong>🚀 MediaCrawlerPro 重磅发布！更多的功能，更好的架构设计！</strong></summary>
 
 ### 🚀 MediaCrawlerPro 重磅发布！
 
@@ -77,7 +75,7 @@
 - [ ] **基于自媒体平台的AI Agent正在开发中 🚀🚀**
 
 点击查看：[MediaCrawlerPro 项目主页](https://github.com/MediaCrawlerPro) 更多介绍
-</details>
+
 
 ## 🚀 快速开始
 
@@ -216,39 +214,10 @@ uv run main.py --platform xhs --lt qrcode --type search --save_data_option sqlit
 uv run main.py --platform xhs --lt qrcode --type search --save_data_option db
 ```
 
----
 
 [🚀 MediaCrawlerPro 重磅发布 🚀！更多的功能，更好的架构设计！](https://github.com/MediaCrawlerPro)
 
-## 🤝 社区与支持
-
-### 💬 交流群组
-- **微信交流群**：[点击加入](https://nanmicoder.github.io/MediaCrawler/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4.html)
-
-### 📚 文档与教程
-- **在线文档**：[MediaCrawler 完整文档](https://nanmicoder.github.io/MediaCrawler/)
-- **爬虫教程**：[CrawlerTutorial 免费教程](https://github.com/NanmiCoder/CrawlerTutorial)
-  
-
-# 其他常见问题可以查看在线文档
-> 
-> 在线文档包含使用方法、常见问题、加入项目交流群等。
-> [MediaCrawler在线文档](https://nanmicoder.github.io/MediaCrawler/)
-> 
-
-# 作者提供的知识服务
-> 如果想快速入门和学习该项目的使用、源码架构设计等、学习编程技术、亦或者想了解MediaCrawlerPro的源代码设计可以看下我的知识付费栏目。
-
-[作者的知识付费栏目介绍](https://nanmicoder.github.io/MediaCrawler/%E7%9F%A5%E8%AF%86%E4%BB%98%E8%B4%B9%E4%BB%8B%E7%BB%8D.html)
-
-
 ---
-
-## ⭐ Star 趋势图
-
-如果这个项目对您有帮助，请给个 ⭐ Star 支持一下，让更多的人看到 MediaCrawler！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
 
 ### 💰 赞助商展示
 
@@ -288,6 +257,38 @@ Thordata是全球代理IP解决方案提供商，支持大规模采集公共网�
 - 邮箱：`relakkes@gmail.com`
 
 
+## 🤝 社区与支持
+
+### 💬 交流群组
+- **微信交流群**：[点击加入](https://nanmicoder.github.io/MediaCrawler/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4.html)
+
+### 📚 文档与教程
+- **在线文档**：[MediaCrawler 完整文档](https://nanmicoder.github.io/MediaCrawler/)
+- **爬虫教程**：[CrawlerTutorial 免费教程](https://github.com/NanmiCoder/CrawlerTutorial)
+  
+
+# 其他常见问题可以查看在线文档
+> 
+> 在线文档包含使用方法、常见问题、加入项目交流群等。
+> [MediaCrawler在线文档](https://nanmicoder.github.io/MediaCrawler/)
+> 
+
+# 作者提供的知识服务
+> 如果想快速入门和学习该项目的使用、源码架构设计等、学习编程技术、亦或者想了解MediaCrawlerPro的源代码设计可以看下我的知识付费栏目。
+
+[作者的知识付费栏目介绍](https://nanmicoder.github.io/MediaCrawler/%E7%9F%A5%E8%AF%86%E4%BB%98%E8%B4%B9%E4%BB%8B%E7%BB%8D.html)
+
+
+---
+
+## ⭐ Star 趋势图
+
+如果这个项目对您有帮助，请给个 ⭐ Star 支持一下，让更多的人看到 MediaCrawler！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NanmiCoder/MediaCrawler&type=Date)](https://star-history.com/#NanmiCoder/MediaCrawler&Date)
+
+
+
 ## 📚 参考
 
 - **小红书客户端**：[ReaJason 的 xhs 仓库](https://github.com/ReaJason/xhs)
@@ -316,14 +317,3 @@ Thordata是全球代理IP解决方案提供商，支持大规模采集公共网�
 ## 6. 最终解释权
 关于本项目的最终解释权归开发者所有。开发者保留随时更改或更新本免责声明的权利，恕不另行通知。
 </div>
-
-
-## 🙏 致谢
-
-### JetBrains 开源许可证支持
-
-感谢 JetBrains 为本项目提供免费的开源许可证支持！
-
-<a href="https://www.jetbrains.com/?from=MediaCrawler">
-    <img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" width="100" alt="JetBrains" />
-</a>
